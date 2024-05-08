@@ -17,8 +17,8 @@ Similarly, perform closing operation and display the result
 ### Step5: 
 End the program
 ## Program:
-### Developed by : SYED ABBU REHAN
-### Register number : 212223240165
+### Developed by : praveen ck
+### Register number : 212222243003
 ``` Python
 # Import the necessary packages
 import numpy as np
